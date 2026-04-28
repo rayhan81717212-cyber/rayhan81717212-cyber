@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohammad%20Rayhan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="banner.svg" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad Rayhan</h1>
 <h3 align="center">🚀 Full Stack Developer</h3>
 
