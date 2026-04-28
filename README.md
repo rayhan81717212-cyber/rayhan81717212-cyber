@@ -45,8 +45,24 @@
 
 ---
 
+### 🚀 Featured Projects
+
 <p align="center">
-  🔥 "Code. Build. Grow."
+  <a href="[https://github.com/YOUR_USERNAME/project1](https://github.com/rayhan81717212-cyber/ecommerce)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="[https://github.com/YOUR_USERNAME/project2](https://github.com/rayhan81717212-cyber/react-final-school-management-project)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project4&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
