@@ -39,7 +39,7 @@
 - 💼 **Full-Stack Developer** from **Bangladesh** — I build real products and ship them to production
 - 🔭 Currently building **ISP Billing Systems** with MikroTik RouterOS integration, and an **ERP platform (Shadhin ERP)**
 - 🤖 Automating workflows with **n8n** &amp; AI integrations — Gemini-powered bots and Facebook comment automation
-- 🛒 Built a complete **e-commerce platform** — Laravel API + Next.js storefront with bKash / Nagad / Rocket payments
+- 🛒 Built a complete **e-commerce platform** — Laravel API + Next.js storefront with cart, coupons, guest checkout &amp; order tracking
 - 🎓 Working on **school &amp; college management systems** — results, GPA &amp; tabulation sheets
 - 🌱 Always learning new technologies and turning them into working software
 - 📍 Based in Bangladesh · 🌐 Portfolio: **[codenix.live](https://codenix.live)**
@@ -56,14 +56,13 @@
 | 🤖 **AI Integration &amp; Automation** | n8n workflows, Gemini-powered auto-reply bots &amp; Facebook comment automation |
 | 🛒 **E-Commerce** | Laravel API + Next.js storefront — cart, coupons, guest checkout, order tracking &amp; returns |
 | 🎓 **School &amp; College Management** | Results, GPA &amp; tabulation sheets with HSC rules |
-| 💳 **Payment Gateways** | bKash / Nagad / Rocket / SSLCommerz webhooks with auto-activation |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode,docker" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode" alt="Tech Stack">
 </p>
 
 | Area | Technologies |
@@ -71,8 +70,8 @@
 | **Frontend** | HTML5, CSS3, JavaScript, React, Next.js, Vue.js, Tailwind CSS |
 | **Backend** | PHP, Laravel, WordPress, MySQL, REST APIs |
 | **Automation &amp; AI** | n8n, Gemini API, Webhooks, REST APIs |
-| **Specialised** | MikroTik RouterOS API, bKash / Nagad payment gateways |
-| **Tools** | Git, GitHub, VS Code, Docker |
+| **Specialised** | MikroTik RouterOS API |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
