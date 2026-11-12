@@ -1,44 +1,66 @@
 <!-- ============================================================ -->
 <!--         Mohammad Rayhan — GitHub Profile README            -->
-<!--   Bold editorial style — big type, numbered sections,      -->
-<!--   green accent. One clean design for dark & light mode.    -->
+<!--   International-standard systems-builder profile:          -->
+<!--   ISP Billing • ERP • AI Automation (n8n) • E-Commerce     -->
 <!-- ============================================================ -->
 
+<!-- ══════════ Banner ══════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-16A34A?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/Laravel_%E2%80%A2_React_%E2%80%A2_Next.js-111111?style=for-the-badge" alt="Laravel React Next.js">
-  <img src="https://komarev.com/ghpvc/?username=rayhan81717212-cyber&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="Profile views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=220&section=header&text=Mohammad%20Rayhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=57&descSize=16" alt="Mohammad Rayhan">
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammad Rayhan</h1>
+
+<p align="center">
+  <a href="https://github.com/rayhan81717212-cyber">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+from+Bangladesh;ISP+Billing+%E2%80%A2+ERP+%E2%80%A2+AI+Automation;Laravel+%7C+React+%7C+Next.js+%7C+n8n;Building+systems%2C+not+tutorials" alt="Typing SVG">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rayhan81717212-cyber/rayhan81717212-cyber/main/assets/hero.svg" alt="Mohammad Rayhan — Full Stack Developer">
+  <a href="https://codenix.live"><img src="https://img.shields.io/badge/Portfolio-codenix.live-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/rayhan81717212-cyber"><img src="https://img.shields.io/badge/GitHub-rayhan81717212--cyber-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.facebook.com/mdrayhan.mdrayhan.509"><img src="https://img.shields.io/badge/Facebook-mdrayhan.mdrayhan.509-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <img src="https://komarev.com/ghpvc/?username=rayhan81717212-cyber&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile views">
 </p>
 
 <p align="center">
-  <a href="https://codenix.live"><img src="https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:rayhan81717212@gmail.com"><img src="https://img.shields.io/badge/Email_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Me"></a>
-  <a href="https://www.facebook.com/mdrayhan.mdrayhan.509"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://github.com/rayhan81717212-cyber"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <b>Full-Stack Developer</b> · Laravel · React · Next.js · MikroTik RouterOS · n8n
+</p>
+
+<p align="center">
+  🔭 <b>Currently:</b> ISP Billing Systems + Shadhin ERP + AI automation with n8n
 </p>
 
 ---
 
-## 01 · ABOUT // who I am
+## 👨‍💻 About Me
 
-**Full Stack Developer &amp; Software Engineer** working professionally on **production systems** — not tutorials. My core work is Laravel backends and REST APIs on one side, and fast, carefully-built React interfaces on the other, with MySQL underneath it all.
-
-- ▶ Building &amp; maintaining real products: ISP billing, ERP platforms, e-commerce &amp; school management systems
-- ▶ Shipping features people actually use, every day
-
-| | |
-| :--- | ---: |
-| **ROLE** | Full Stack Developer |
-| **FOCUS** | ISP Billing &amp; ERP Systems |
-| **BASED** | Bangladesh |
+- 💼 **Full-Stack Developer** from **Bangladesh** — I build real products and ship them to production
+- 🔭 Currently building **ISP Billing Systems** with MikroTik RouterOS integration, and an **ERP platform (Shadhin ERP)**
+- 🤖 Automating workflows with **n8n** &amp; AI integrations — Gemini-powered bots and Facebook comment automation
+- 🛒 Built a complete **e-commerce platform** — Laravel API + Next.js storefront with bKash / Nagad / Rocket payments
+- 🎓 Working on **school &amp; college management systems** — results, GPA &amp; tabulation sheets
+- 🌱 Always learning new technologies and turning them into working software
+- 📍 Based in Bangladesh · 🌐 Portfolio: **[codenix.live](https://codenix.live)**
+- 💬 Ask me about **Laravel, PHP, React, Next.js, MySQL, MikroTik API &amp; n8n**
 
 ---
 
-## 02 · TECH STACK // what I use
+## 🚀 What I Build
+
+| Domain | What I do |
+| --- | --- |
+| 🌐 **ISP Billing Systems** | PPPoE / Hotspot users, packages, vouchers &amp; reseller wallets — pushed live to MikroTik routers via RouterOS API |
+| 🏢 **ERP — Shadhin ERP** | Billing cycles, zones &amp; MikroTik configuration for ISP businesses, in one panel |
+| 🤖 **AI Integration &amp; Automation** | n8n workflows, Gemini-powered auto-reply bots &amp; Facebook comment automation |
+| 🛒 **E-Commerce** | Laravel API + Next.js storefront — cart, coupons, guest checkout, order tracking &amp; returns |
+| 🎓 **School &amp; College Management** | Results, GPA &amp; tabulation sheets with HSC rules |
+| 💳 **Payment Gateways** | bKash / Nagad / Rocket / SSLCommerz webhooks with auto-activation |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode,docker" alt="Tech Stack">
@@ -48,12 +70,13 @@
 | --- | --- |
 | **Frontend** | HTML5, CSS3, JavaScript, React, Next.js, Vue.js, Tailwind CSS |
 | **Backend** | PHP, Laravel, WordPress, MySQL, REST APIs |
+| **Automation &amp; AI** | n8n, Gemini API, Webhooks, REST APIs |
 | **Specialised** | MikroTik RouterOS API, bKash / Nagad payment gateways |
 | **Tools** | Git, GitHub, VS Code, Docker |
 
 ---
 
-## 03 · GITHUB STATS // numbers
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan81717212-cyber&theme=tokyonight" alt="GitHub Stats">
@@ -66,13 +89,17 @@
 
 ---
 
-## 04 · CONNECT // find me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://codenix.live"><img src="https://img.shields.io/badge/Portfolio-Visit%20codenix.live-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:rayhan81717212@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://codenix.live"><img src="https://img.shields.io/badge/Portfolio-Visit%20codenix.live-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/rayhan81717212-cyber"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.facebook.com/mdrayhan.mdrayhan.509"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://github.com/rayhan81717212-cyber"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center"><i>⚡ "First, solve the problem. Then, write the code."</i></p>
+
+<!-- ══════════ Footer ══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer" alt="">
+</p>
