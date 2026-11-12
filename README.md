@@ -1,17 +1,20 @@
 <!-- ============================================================ -->
-<!--            Mohammad Rayhan — GitHub Profile README           -->
+<!--         Mohammad Rayhan — GitHub Profile README            -->
+<!--   Dark / Light mode aware — GitHub switches automatically  -->
 <!-- ============================================================ -->
 
-<!-- Banner -->
+<!-- ══════════ Banner — Dark ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohammad%20Rayhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=58&descSize=16" alt="Mohammad Rayhan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mohammad%20Rayhan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=57&descSize=16#gh-dark-mode-only" alt="Mohammad Rayhan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:bfdbfe&height=220&section=header&text=Mohammad%20Rayhan&fontSize=44&fontColor=0f2027&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=57&descSize=16#gh-light-mode-only" alt="Mohammad Rayhan" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Rayhan</h1>
 
 <p align="center">
   <a href="https://github.com/rayhan81717212-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+from+Bangladesh;Laravel+%7C+React+%7C+Next.js+Developer;Building+ISP+Billing+%26+ERP+Systems;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+from+Bangladesh;Laravel+%7C+React+%7C+Next.js+Developer;Building+ISP+Billing+%26+ERP+Systems;Always+learning+new+technologies#gh-dark-mode-only" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F2027&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+from+Bangladesh;Laravel+%7C+React+%7C+Next.js+Developer;Building+ISP+Billing+%26+ERP+Systems;Always+learning+new+technologies#gh-light-mode-only" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,24 +24,29 @@
   <img src="https://komarev.com/ghpvc/?username=rayhan81717212-cyber&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <b>Full-Stack Developer</b> · Laravel · React · Next.js · MikroTik RouterOS
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 **Full Stack Developer** from **Bangladesh**
-- 🔭 Currently building **ISP Billing Systems** with MikroTik RouterOS integration &amp; an **ERP platform (Shadhin ERP)**
+- 💼 **Full-Stack Developer** from **Bangladesh** — I build real products and ship them to production
+- 🔭 Currently building **ISP Billing Systems** with MikroTik RouterOS integration, and an **ERP platform (Shadhin ERP)**
 - 🛒 Built a complete **e-commerce platform** — Laravel API + Next.js storefront with bKash / Nagad / Rocket payments
-- 🎓 Working on **school &amp; college management** systems — results, GPA &amp; tabulation sheets
-- 🌱 Always learning new technologies and shipping them into production
-- 🌐 Portfolio: **[codenix.live](https://codenix.live)**
+- 🎓 Working on **school &amp; college management systems** — results, GPA &amp; tabulation sheets
+- 🌱 Always learning new technologies and turning them into working software
+- 📍 Based in Bangladesh · 🌐 Portfolio: **[codenix.live](https://codenix.live)**
 - 💬 Ask me about **Laravel, PHP, React, Next.js, MySQL &amp; MikroTik API**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode,docker&theme=dark#gh-dark-mode-only" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs,vue,tailwind,mysql,wordpress,git,github,vscode,docker&theme=light#gh-light-mode-only" alt="Tech Stack" />
 </p>
 
 | Area | Technologies |
@@ -53,33 +61,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rayhan81717212-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan81717212-cyber&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan81717212-cyber&theme=tokyonight#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayhan81717212-cyber&theme=github#gh-light-mode-only" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan81717212-cyber&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayhan81717212-cyber&theme=tokyonight#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayhan81717212-cyber&theme=github#gh-light-mode-only" alt="Top Languages" />
 </p>
-
----
-
-## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rayhan81717212-cyber/ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhan81717212-cyber&repo=ecommerce&theme=tokyonight" alt="Ecommerce" />
-  </a>
-  <a href="https://github.com/rayhan81717212-cyber/react-final-school-management-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayhan81717212-cyber&repo=react-final-school-management-project&theme=tokyonight" alt="School Management" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan81717212-cyber&theme=tokyonight#gh-dark-mode-only" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan81717212-cyber&theme=default#gh-light-mode-only" alt="GitHub Streak" />
 </p>
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| 🛒 **[E-Commerce Platform](https://github.com/rayhan81717212-cyber/ecommerce)** | Storefront + admin panel: cart, coupons, guest checkout (COD / bKash / Nagad), order tracking, returns &amp; reviews | Laravel, Next.js, MySQL |
-| 🎓 **[School Management](https://github.com/rayhan81717212-cyber/react-final-school-management-project)** | Students, teachers, classes &amp; result management with an admin dashboard | React, JavaScript |
-| 🌐 **ISP Billing System** | Customers, packages, vouchers &amp; reseller wallets — PPPoE / Hotspot users pushed live to MikroTik routers | Laravel, Livewire, RouterOS API |
-| 🏢 **Shadhin ERP** | ERP for ISP businesses — billing cycles, zones &amp; MikroTik configuration in one panel | Next.js, React |
 
 ---
 
@@ -92,7 +86,8 @@
 
 <p align="center"><i>⚡ "First, solve the problem. Then, write the code."</i></p>
 
-<!-- Footer -->
+<!-- ══════════ Footer — Dark / Light ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer#gh-dark-mode-only" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bfdbfe,100:dbeafe&height=120&section=footer#gh-light-mode-only" alt="" />
 </p>
